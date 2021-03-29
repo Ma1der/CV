@@ -1,0 +1,206 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    body {
+        background: #f5f7fa;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-family: 'Monserrat', sans-serif;
+    }
+    .wrap {
+        background: #ffffff;
+        display: flex;
+        max-width: 1200px;
+        margin: 0 auto;
+        box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+    
+    }
+    .sandwich {
+        background: #1e2939;
+        width: 370px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .myPhoto {
+        width: 370px; 
+    }
+    .CVinfo {
+       padding-left: 90px;
+       padding-right: 90px;
+       padding-top: 110px;
+       padding-bottom: 110px;
+       font-family: 'Monserrat', sans-serif;
+    }
+    .Contacts {
+        margin-top: 60px;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .Contacts-Title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    margin-bottom: 20px;
+    }
+    .call {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #434c5a;
+    }
+    .callType {
+        font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    margin-right: 10px;
+    }
+    .Tech-Skills {
+       margin-left: 40px;
+       margin-right: 40px;
+       margin-top: 55px;
+    }
+    .Tech-Skills-Title {
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 24px;
+        color: #fff;
+        margin-bottom: 20px;
+    }
+    .Tech-Skills-Item {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        
+        margin-left: 15px;
+        color: #ff6b08;
+    }
+    .text-color {
+        color:#fff;
+    }
+    .Soft-Skills {
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-top: 55px;
+    }
+    .Soft-Skills-Title {
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 24px;
+        color: #fff;
+        margin-bottom: 20px;
+    }
+    .Soft-Skills-Item {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        
+        margin-left: 15px;
+        color: #ff6b08;
+    }
+    .text-color2 {
+        color:white;
+    }
+    .Language {
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-top: 55px;
+    }
+    .Language-Title {
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 24px;
+        color: #fff;
+        margin-bottom: 20px;
+    }
+    .Language-Item {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        
+        margin-left: 15px;
+        color: #ff6b08;
+    }
+    .text-color3 {
+        color:white;
+    }
+    .position {
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 24px;
+        margin-bottom: 23px;
+    }
+    .name {
+        font-size: 45px;
+        font-weight: 700;
+        line-height: 89px;
+    }
+    .description {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        margin-top: 24px;
+    }
+    .myInfo {
+        margin-bottom: 65px;
+    }
+    .Titles {
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    .project-link {
+        color: #595959;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+    .projectFont {
+        color: #595959;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+    .project-Item {
+        font-weight: 700;
+        margin-left: 17px;
+    }
+    .positions {
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+    .colorOrange {
+        color: #ff7011;
+    }
+    .work-period {
+        color: #a8a8a8;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 24px;
+        margin-bottom: 14px;
+    }
+    .divider {
+        color: #000;
+    }
+    .StartOrange {
+        color: #ff7011;
+    }
+    .Duties { 
+        margin-top: 14px;
+        margin-bottom: 30px;
+    }
+    .Duties-Item {
+        color: #595959;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+    }
