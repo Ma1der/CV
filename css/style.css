@@ -174,7 +174,7 @@
     .project-Item {
         font-weight: 700;
         margin-left: 17px;
-        margin-bottom: 60px;
+        margin-bottom: 50px !important;
     }
     .positions {
         font-size: 16px;
