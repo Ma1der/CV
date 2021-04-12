@@ -12,6 +12,7 @@
         font-family: 'Monserrat', sans-serif;
     }
     .wrap {
+        min-width: 1200px;
         background: #ffffff;
         display: flex;
         max-width: 1200px;
