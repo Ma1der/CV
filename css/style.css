@@ -159,6 +159,7 @@
         font-weight: 700;
         line-height: 24px;
         margin-bottom: 10px;
+        margin-top: 40px;
     }
     .project-link {
         color: #595959;
@@ -182,7 +183,7 @@
         font-weight: 700;
         line-height: 24px;
         margin-top: 5px;
-        margin-bottom: 0px;
+        margin-bottom: 10px;
     }
     .colorOrange {
         color: #ff7011;
@@ -222,4 +223,10 @@
         line-height: 24px;
         margin-top: 2px;
        
+    }
+    .Summary {
+        font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: 'Monserrat', sans-serif;
     }
